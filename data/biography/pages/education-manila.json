@@ -1,0 +1,17 @@
+{
+  "title": "Education in Manila",
+  "content": [
+    {
+      "type": "header",
+      "text": "Education in Manila"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rizal began his formal education at the Ateneo Municipal de Manila, where he excelled in academics and earned a Bachelor of Arts degree with highest honors."
+    },
+    {
+      "type": "paragraph",
+      "text": "He later enrolled at the University of Santo Tomas to study medicine but transferred due to discrimination he experienced."
+    }
+  ]
+}

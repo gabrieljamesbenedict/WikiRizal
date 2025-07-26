@@ -7,7 +7,7 @@
 		},
 		{
 			"type": "paragraph",
-			"text": "Welcome to the Rizal Wiki, a digital space dedicated to preserving the life, works, and legacy of Dr. José Rizal, the Philippines’ foremost national hero."
+			"text": "Welcome to the *Rizal Wiki*, a digital space dedicated to preserving the life, works, and legacy of **Dr. José Rizal**, the Philippines’ foremost national hero."
 		},
 		{
 			"type": "image",
@@ -26,19 +26,27 @@
 			"type": "list",
 			"style": "unordered",
 			"items": [
-				"Biography: Major events and milestones in Rizal’s life- Works: Summaries and excerpts from his novels, essays, and letters",
-				"Timeline: Historical events during his lifetime",
-				"Gallery: Photographs and documents",
-				"Trivia: Little-known facts to make learning fun"
+				"[Biography](biography/overview): Major events and milestones in Rizal’s life",
+				"[Works](works/overview): Summaries and excerpts from his novels, essays, and letters",
+				"[Timeline](timeline/overview): Historical events during his lifetime",
+				"[Gallery](gallery/overview): Rare photographs and original documents",
+				"[Trivia](trivia/overview): Little-known facts to make learning fun"
 			]
-			},
+		},
 		{
 			"type": "subheader",
 			"text": "Why Rizal?"
 		},
 		{
 			"type": "paragraph",
-			"text": "Rizal’s ideas on freedom, education, and national identity remain relevant to this day. Understanding him helps us better understand our history and the values we carry forward."
+			"text": "Rizal’s ideas on **freedom**, *education*, and **national identity** remain relevant to this day. Understanding him helps us better understand our past—and the values we carry forward."
+		},
+		{
+			"type": "hr"
+		},
+		{
+			"type": "paragraph",
+			"text": "Visit the [Wikipedia page](https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal) for additional references."
 		}
 	]
 }
