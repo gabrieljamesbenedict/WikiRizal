@@ -1,0 +1,44 @@
+{
+	"title": "Welcome to the Rizal Wiki",
+	"content": [
+		{
+			"type": "header",
+			"text": "Dr. José Rizal: A National Hero"
+		},
+		{
+			"type": "paragraph",
+			"text": "Welcome to the Rizal Wiki, a digital space dedicated to preserving the life, works, and legacy of Dr. José Rizal, the Philippines’ foremost national hero."
+		},
+		{
+			"type": "image",
+			"src": "assets/images/rizal-portrait.jpg",
+			"alt": "Portrait of José Rizal"
+		},
+		{
+			"type": "subheader",
+			"text": "Explore"
+		},
+		{
+			"type": "paragraph",
+			"text": "Use the navigation menu to explore key aspects of Rizal’s life and legacy:"
+		},
+		{
+			"type": "list",
+			"style": "unordered",
+			"items": [
+				"Biography: Major events and milestones in Rizal’s life- Works: Summaries and excerpts from his novels, essays, and letters",
+				"Timeline: Historical events during his lifetime",
+				"Gallery: Photographs and documents",
+				"Trivia: Little-known facts to make learning fun"
+			]
+			},
+		{
+			"type": "subheader",
+			"text": "Why Rizal?"
+		},
+		{
+			"type": "paragraph",
+			"text": "Rizal’s ideas on freedom, education, and national identity remain relevant to this day. Understanding him helps us better understand our history and the values we carry forward."
+		}
+	]
+}

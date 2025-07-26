@@ -19,7 +19,9 @@ header {
 	flex-wrap: wrap;
 }
 
-.logo {
+.navbar h1 a, .navbar h1 {
+	color: white;
+	text-decoration: none;
 	margin: 0;
 	font-size: 1.5rem;
 }
@@ -43,16 +45,48 @@ header {
 }
 
 main {
-	padding: 2rem;
-}
-
-a {
-	display: inline-block;
-	margin-bottom: 0.5rem;
-	color: #007acc;
-	text-decoration: none;
+	padding: 0rem 3rem 0rem 3rem;
 }
 
 a:hover {
 	text-decoration: underline;
+}
+
+/* Header (h1) styling */
+.wiki-h1 {
+	text-decoration: underline;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	max-width: 100%;
+}
+
+/* Subheader (h2) styling */
+.wiki-h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+	margin-bottom: 0.75rem;
+	max-width: 75%;
+}
+
+/* Paragraph styling */
+.wiki-p {
+	font-size: 1rem;
+	line-height: 1.6;
+	margin-bottom: 1rem;
+	max-width: 75%;
+}
+
+/* Image styling */
+.wiki-img {
+	max-height: 50rem;
+	margin: 1rem 0;
+}
+
+/* List styling */
+.wiki-list {
+	margin: 1em 0;
+	padding-left: 2em;
+}
+.wiki-list li {
+	margin-bottom: 0.5em;
 }
