@@ -1,0 +1,39 @@
+<!-- page.html -->
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loading...</title>
+  <link rel="stylesheet" href="wiki.css">
+</head>
+
+<body>
+  <a href="index.html">← Back to Home</a>
+  <h1 id="title">Loading...</h1>
+  <div id="content">Please wait...</div>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const slug = params.get('slug');
+
+    fetch(`data/pages/${slug}.json`)
+      .then(response => {
+        if (!response.ok) throw new Error("Page not found");
+        return response.json();
+      })
+      .then(data => {
+        document.title = data.title;
+        document.getElementById("title").textContent = data.title;
+        document.getElementById("content").innerHTML = data.content;
+      })
+      .catch(err => {
+        document.title = "Not Found";
+        document.getElementById("title").textContent = "Page not found";
+        document.getElementById("content").textContent = "The page you requested does not exist.";
+      });
+  </script>
+</body>
+
+</html>
