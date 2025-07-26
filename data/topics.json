@@ -1,6 +1,10 @@
 [
-  {
-    "slug": "what-is-ai",
-    "title": "What is AI?"
-  }
+	{
+		"slug": "what-is-ai",
+		"title": "What is AI?"
+	},
+	{
+		"slug": "history-of-computers",
+		"title": "History of Computers"
+	}
 ]

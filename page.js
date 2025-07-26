@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     })
     .then(data => {
       document.title = data.title;
-      document.getElementById("title").textContent = data.title;
+      //document.getElementById("title").textContent = data.title;
 
       const contentDiv = document.getElementById("content");
       contentDiv.innerHTML = "";
@@ -43,6 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         contentDiv.appendChild(el);
+        
       });
     })
     .catch(err => {

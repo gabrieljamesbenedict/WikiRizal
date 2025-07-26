@@ -1,18 +1,58 @@
 /* wiki.css */
 body {
-  font-family: Arial, sans-serif;
-  margin: 2rem;
-  background: #f9f9f9;
-  color: #333;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	background: #f9f9f9;
+	color: #333;
+}
+
+header {
+	background-color: #007acc;
+	padding: 1rem 2rem;
+	color: white;
+}
+
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.logo {
+	margin: 0;
+	font-size: 1.5rem;
+}
+
+.nav-menu {
+	list-style: none;
+	display: flex;
+	gap: 1rem;
+	padding: 0;
+	margin: 0;
+}
+
+.nav-menu li a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.nav-menu li a:hover {
+	text-decoration: underline;
+}
+
+main {
+	padding: 2rem;
 }
 
 a {
-  display: block;
-  margin-bottom: 0.5rem;
-  color: #007acc;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
+	display: inline-block;
+	margin-bottom: 0.5rem;
+	color: #007acc;
+	text-decoration: none;
 }
 
+a:hover {
+	text-decoration: underline;
+}
