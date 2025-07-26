@@ -1,4 +1,26 @@
 {
   "title": "What is AI?",
-  "content": "<p>Artificial Intelligence (AI) is the simulation of human intelligence in machines...</p>"
+  "content": [
+    {
+      "type": "header",
+      "text": "What is Artificial Intelligence?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Artificial Intelligence (AI) is the simulation of human intelligence by machines."
+    },
+    {
+      "type": "subheader",
+      "text": "Types of AI"
+    },
+    {
+      "type": "paragraph",
+      "text": "AI can be narrow (task-specific) or general (human-like cognition)."
+    },
+    {
+      "type": "image",
+      "src": "images/ai-example.png",
+      "alt": "AI example illustration"
+    }
+  ]
 }
