@@ -2,7 +2,7 @@
 import { renderContent } from './parser.js';
 
 const container = document.getElementById("contents");
-fetch('../data/home.json')
+fetch('data/home.json')
 	.then(response => {
 		if (!response.ok) throw new Error("Failed to load home page content.");
 		return response.json();
