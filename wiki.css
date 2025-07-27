@@ -65,7 +65,7 @@ a:hover {
 	font-size: 1.5rem;
 	margin-top: 1.5rem;
 	margin-bottom: 0.75rem;
-	max-width: 75%;
+	max-width: 100%;
 }
 
 /* Paragraph styling */
@@ -73,7 +73,7 @@ a:hover {
 	font-size: 1rem;
 	line-height: 1.6;
 	margin-bottom: 1rem;
-	max-width: 75%;
+	max-width: 100%;
 }
 
 /* Image styling */
@@ -91,3 +91,122 @@ a:hover {
 .wiki-list li {
 	margin-bottom: 0.5em;
 }
+
+
+/* Editor-specific styling */
+#editor {
+	max-width: 800px;
+	margin: 2rem auto;
+	padding: 2rem;
+	background: #f9f9f9;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+}
+
+#editor input[type="text"],
+#editor textarea
+{
+	width: 97%;
+	padding: 0.5rem;
+	margin-top: 0.25rem;
+	margin-bottom: 1rem;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	font-size: 1rem;
+	resize: none;
+}
+
+#editor select {
+	width: 100%;
+	padding: 0.5rem;
+	margin-top: 0.25rem;
+	margin-bottom: 1rem;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	font-size: 1rem;
+	resize: none;
+}
+
+
+#editor label {
+	font-weight: bold;
+	display: block;
+	margin-top: 0.5rem;
+}
+
+.block {
+	border: 1px solid #ddd;
+	background-color: #fff;
+	padding: 1rem;
+	margin-bottom: 1.5rem;
+	border-radius: 6px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.block select {
+	margin-bottom: 1rem;
+}
+
+.block-actions {
+	display: flex;
+	gap: 1rem;
+	margin-top: 1.5rem;
+	margin-bottom: 2rem;
+}
+
+#json-output {
+	width: 100%;
+	padding: 1rem;
+	font-family: monospace;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	background-color: #f4f4f4;
+}
+
+
+
+#preview {
+	margin-top: 2rem;
+}
+
+#previewContainer {
+	padding: 1rem;
+	border: 1px dashed #aaa;
+	background: #fff;
+}
+
+
+#editor-preview-wrapper {
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+	padding: 1rem;
+}
+
+@media (min-width: 1000px) {
+	#editor-preview-wrapper {
+		flex-direction: row;
+		align-items: flex-start;
+	}
+
+	#editor, #preview {
+		flex: 1;
+	}
+}
+
+#preview {
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	background: #fff;
+	padding: 1rem;
+}
+
+#preview h2 {
+	margin-top: 0;
+}
+
+#topicJsonOutput {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
