@@ -79,6 +79,7 @@ a:hover {
 /* Image styling */
 .wiki-img {
 	max-height: 50rem;
+	max-width: 100%;
 	margin: 1rem 0;
 }
 
