@@ -79,10 +79,21 @@ addBlockBtn.addEventListener("click", () => {
 
 	typeSelect.dispatchEvent(new Event("change"));
 
+	// ✅ Create and add the remove button
+	const removeBtn = document.createElement("button");
+	removeBtn.textContent = "Remove";
+	removeBtn.style.marginTop = "10px";
+	removeBtn.addEventListener("click", () => {
+		blockWrapper.remove();
+	});
+
 	blockWrapper.appendChild(typeSelect);
 	blockWrapper.appendChild(dynamicFields);
+	blockWrapper.appendChild(removeBtn); // ✅ Append remove button at the end
+
 	blocksContainer.appendChild(blockWrapper);
 });
+
 
 generateBtn.addEventListener("click", () => {
 	const pageTitle = pageTitleInput.value.trim();
