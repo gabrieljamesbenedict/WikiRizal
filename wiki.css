@@ -135,12 +135,12 @@ a:hover {
 }
 
 .block {
-	border: 1px solid #ddd;
-	background-color: #fff;
-	padding: 1rem;
-	margin-bottom: 1.5rem;
-	border-radius: 6px;
-	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  position: relative;
+  border: 1px solid #ccc;
+  padding: 1em 1em 1em 4em; /* left padding to make space for buttons */
+  margin-bottom: 1em;
+  background-color: #fafafa;
+  border-radius: 4px;
 }
 
 .block select {
@@ -154,6 +154,51 @@ a:hover {
 	margin-bottom: 2rem;
 }
 
+.block-controls {
+  position: absolute;
+  left: 1em;
+  top: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4em;
+}
+
+.block-controls button {
+  background-color: #eee;
+  border: none;
+  padding: 4px 6px;
+  cursor: pointer;
+  font-size: 0.9em;
+  border-radius: 3px;
+  transition: background-color 0.2s ease;
+  width: 30px;
+  text-align: center;
+}
+
+.block-controls button:hover {
+  background-color: #ccc;
+}
+
+.block-controls button:active {
+  background-color: #bbb;
+}
+
+.block-controls button:last-child {
+  background-color: #f44336; /* red */
+  color: white;
+}
+
+.block-controls button:last-child:hover {
+  background-color: #d32f2f;
+}
+
+.block-controls button:last-child:active {
+  background-color: #b71c1c;
+}
+
+
+
+
 #json-output {
 	width: 100%;
 	padding: 1rem;
@@ -162,7 +207,6 @@ a:hover {
 	border-radius: 4px;
 	background-color: #f4f4f4;
 }
-
 
 
 #preview {

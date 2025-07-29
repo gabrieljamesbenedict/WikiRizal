@@ -79,17 +79,39 @@ addBlockBtn.addEventListener("click", () => {
 
 	typeSelect.dispatchEvent(new Event("change"));
 
-	// ✅ Create and add the remove button
-	const removeBtn = document.createElement("button");
-	removeBtn.textContent = "Remove";
-	removeBtn.style.marginTop = "10px";
-	removeBtn.addEventListener("click", () => {
-		blockWrapper.remove();
+	// --- Controls (Up, Down, Remove) ---
+	const controls = document.createElement("div");
+	controls.className = "block-controls";
+	controls.style.marginTop = "10px";
+
+	const upBtn = document.createElement("button");
+	upBtn.textContent = "↑";
+	upBtn.title = "Move block up";
+	upBtn.addEventListener("click", () => {
+		const prev = blockWrapper.previousElementSibling;
+		if (prev) blocksContainer.insertBefore(blockWrapper, prev);
 	});
+
+	const downBtn = document.createElement("button");
+	downBtn.textContent = "↓";
+	downBtn.title = "Move block down";
+	downBtn.addEventListener("click", () => {
+		const next = blockWrapper.nextElementSibling;
+		if (next) blocksContainer.insertBefore(next, blockWrapper);
+	});
+
+	const removeBtn = document.createElement("button");
+	removeBtn.textContent = "X";
+	removeBtn.title = "Delete this block";
+	removeBtn.addEventListener("click", () => blockWrapper.remove());
+
+	controls.appendChild(upBtn);
+	controls.appendChild(downBtn);
+	controls.appendChild(removeBtn);
 
 	blockWrapper.appendChild(typeSelect);
 	blockWrapper.appendChild(dynamicFields);
-	blockWrapper.appendChild(removeBtn); // ✅ Append remove button at the end
+	blockWrapper.appendChild(controls);
 
 	blocksContainer.appendChild(blockWrapper);
 });
@@ -155,10 +177,9 @@ generateBtn.addEventListener("click", () => {
 		slug
 	};
 
-	// Set output to their respective fields
 	document.getElementById("pageJsonOutput").value = JSON.stringify(pageJson, null, 2);
 	document.getElementById("topicJsonOutput").value = JSON.stringify(topicJson);
-    
-    previewContainer.innerHTML = "";
-    renderContent(content, previewContainer);
+
+	previewContainer.innerHTML = "";
+	renderContent(content, previewContainer);
 });
