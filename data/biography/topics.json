@@ -1,11 +1,4 @@
 {
   "topics": [
-    { "title": "Early Life", "slug": "early-life" },
-    { "title": "Education in Manila", "slug": "education-manila" },
-    { "title": "Studies in Europe", "slug": "studies-europe" },
-    { "title": "Return to the Philippines", "slug": "return-philippines" },
-    { "title": "Exile in Dapitan", "slug": "exile-dapitan" },
-    { "title": "Trial and Execution", "slug": "trial-execution" },
-    { "title": "Legacy and Influence", "slug": "legacy-influence" }
   ]
 }
