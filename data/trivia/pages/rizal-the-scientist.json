@@ -1,0 +1,58 @@
+{
+  "title": "Rizal the Scientist",
+  "slug": "rizal-the-scientist",
+  "content": [
+    {
+      "type": "header",
+      "text": "Rizal the Scientist"
+    },
+    {
+      "type": "subheader",
+      "text": "More Than a Hero: A Curious Mind for Nature"
+    },
+    {
+      "type": "image",
+      "src": "assets/images/rizal-scientist.jpg",
+      "alt": "José Rizal examining specimens and working in his lab"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "paragraph",
+      "text": "While José Rizal is best known for his writings and nationalism, he was also an accomplished scientist. His time in exile in Dapitan became one of the most productive scientific periods of his life. He studied nature, cataloged species, and even conducted community-based environmental and medical work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rizal collected specimens of insects, shells, birds, and plants—many of which were sent to museums in Europe. In recognition of his contributions, several species were named after him, including a lizard (Draco rizali) and a beetle (Apogonia rizali)."
+    },
+    {
+      "type": "paragraph",
+      "text": "He worked with European scientists and corresponded with experts in biology and medicine. His research wasn’t done for prestige but driven by genuine curiosity and a desire to contribute to knowledge."
+    },
+    {
+      "type": "subheader",
+      "text": "Scientific Service in Dapitan"
+    },
+    {
+      "type": "paragraph",
+      "text": "During his exile, Rizal turned Dapitan into a laboratory and classroom. He built a small hospital and treated patients using both traditional remedies and modern practices. He performed minor surgeries, including on the eye—his field of specialization as an ophthalmologist."
+    },
+    {
+      "type": "paragraph",
+      "text": "He also designed a water system for the town and engaged in land surveying, urban planning, and agricultural experimentation. His work reflected a holistic view of science—integrating it into daily life for the public good."
+    },
+    {
+      "type": "subheader",
+      "text": "A Man of Rational Inquiry"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rizal’s scientific pursuits were grounded in his belief in reason, education, and self-reliance. He saw science as a liberating force—one that could empower Filipinos to think critically and improve their own communities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Though he never claimed to be a professional scientist, his multidisciplinary achievements—from biology and medicine to engineering—show that his intellect was not confined to politics. Rizal’s legacy in science is a reminder that patriotism and rational inquiry can go hand in hand."
+    }
+  ]
+}
