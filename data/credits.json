@@ -13,10 +13,24 @@
       "type": "hr"
     },
     {
+        "type": "paragraph",
+        "text": "Project Leader:"
+    },
+    {
       "type": "list",
       "style": "ordered",
       "items": [
-        "Gabriel James Benedict",
+        "Gabriel James Benedict"
+      ]
+    },
+    {
+        "type": "paragraph",
+        "text": "Other Contributors:"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
         "Euan Miguel",
         "Paul Leondard"
       ]
