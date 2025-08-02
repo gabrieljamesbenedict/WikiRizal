@@ -1,5 +1,9 @@
 {
   "topics": [
-    
+    {"title":"Noli Me Tángere","slug":"noli-me-t-ngere"},
+    {"title":"El Filibusterismo","slug":"el-filibusterismo"},
+    {"title":"Filipinas dentro de cien años","slug":"filipinas-dentro-de-cien-a-os"},
+    {"title":"La Indolencia de los Filipinos","slug":"la-indolencia-de-los-filipinos"},
+    {"title":"Mi Último Adiós","slug":"mi-ltimo-adi-s"}
   ]
 }
