@@ -1,5 +1,9 @@
 {
   "topics": [
-    
+    {"title":"Birth of Rizal","slug":"birth-of-rizal"},
+    {"title":"Publication of Noli me Tangere","slug":"publication-of-noli-me-tangere"},
+    {"title":"Founding of La Liga Filipina","slug":"founding-of-la-liga-filipina"},
+    {"title":"Rizal's Exile in Dapitan","slug":"rizal-s-exile-in-dapitan"},
+    {"title":"Execution of Rizal","slug":"execution-of-rizal"}
   ]
 }
