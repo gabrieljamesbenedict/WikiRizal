@@ -66,6 +66,7 @@ a:hover {
 	margin-top: 1.5rem;
 	margin-bottom: 0.75rem;
 	max-width: 100%;
+	color: gray;
 }
 
 /* Paragraph styling */
@@ -132,6 +133,17 @@ a:hover {
 	font-weight: bold;
 	display: block;
 	margin-top: 0.5rem;
+}
+
+#addBlockBtn, #generateBtn {
+	background-color: #007acc;
+	color: white;
+	border: none;
+	padding: 8px 16px;
+	cursor: pointer;
+	font-size: 1rem;
+	border-radius: 4px;
+	transition: background-color 0.2s ease;
 }
 
 .block {

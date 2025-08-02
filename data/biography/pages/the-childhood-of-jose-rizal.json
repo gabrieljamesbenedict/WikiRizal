@@ -6,13 +6,13 @@
       "text": "The Childhood of Jose Rizal"
     },
     {
+      "type": "subheader",
+      "text": "The childhood of Jose Rizal can be characterized by his desire to learn, even frequenting the church nearby his home to watch and observe people but not to be religiously inclined."
+    },
+    {
       "type": "image",
       "src": "assets/images/rizal-child.jpg",
       "alt": "Child Rizal"
-    },
-    {
-      "type": "paragraph",
-      "text": "The childhood of Jose Rizal can be characterized by his desire to learn, even frequenting the church nearby his home to watch and observe people but not to be religiously inclined."
     },
     {
       "type": "paragraph",
@@ -37,10 +37,6 @@
     {
       "type": "paragraph",
       "text": "Even in his childhood, Rizal already knew how to respect the rights of others and requested his elders to reason with him rather than get mad at him for small offenses. He became a welcome companion for adults even at his young age since he respected their moods and was never a hindrance to their activities."
-    },
-    {
-      "type": "paragraph",
-      "text": "[Reference](https://www.joserizal.com/childhood-jose-rizal/#google_vignette)"
     }
   ]
 }

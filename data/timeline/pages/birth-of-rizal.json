@@ -1,0 +1,41 @@
+{
+  "title": "Birth of Rizal",
+  "content": [
+    {
+      "type": "header",
+      "text": "Birth of Rizal"
+    },
+    {
+      "type": "subheader",
+      "text": "Jose Rizal was born 149 years ago in La Laguna, as it was called then. He was born in Calamba, from the words kalan banga, which means jar."
+    },
+    {
+      "type": "image",
+      "src": "assets/images/rizals-birthplace.jpg",
+      "alt": "Rizals Birthplace"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nick Joaquin, in his biography Rizal in Saga, would describe Rizal’s boyhood town: “The town he knew was of stone and red tile: three streets, not quite parallel, running from west to east and converging on the shores of Laguna de Ba’i, so that the original shape of the town was a long acute triangle. The main street was…Calle Real, where stood the church, the Casa del Gobierno, the Casa de Hacienda, the plaza, and the market…The population was around 5,000 in Rizal’s time; and Calamba was then one of the great rice towns of the country…”"
+    },
+    {
+      "type": "paragraph",
+      "text": "José Protasio Rizal Mercado y Alonso Realonda was born on June 19, 1861 to Francisco Mercado Rizal y Alejandro and Teodora Alonzo y Quintos. He was born a small child, a physical stature for which he was known his entire life. His sisters would say: “Jose was a very small child.” The house he grew up in was well situated in Calamba; right next to the church at the edge of the plaza. His family’s prosperity was based in agriculture; from the Dominican hacienda they would lease land. Rizal was of mixed descent. His Chinese immigrant ancestor added the name Mercado, with the name “Rizal” was of a then more recent vintage. In 1849 Governor-General Narciso Claveria ordered that all Filipinos select a surname from a list. Don Francisco chose the name, “Rizal”. The original form was Ricial, which means “growing again” and referred to new growth in the fields. However, they still used Mercado. Why did our hero choose Rizal when he went to school? From Rizal In Excelsis by Felice Sta. Maria: “Paciano, Pepe’s brother had good reason for his recommendation. He stopped schooling at San Jose College because his housemate, Father Jose Burgos, was executed as a subversive in February…He did not want Pepe’s future jeopardized by his relation to a Mercado, a suspected liberal.” Paciano though would become a central figure in his younger brother’s life, including providing financial and moral support while Rizal was in Europe. And it was on the foundation that nationalists like Father Burgos and others created that Rizal would build his new vision of the Philippines."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Philippines in 1861 was a territory just waking to its nationalism and potential. With certain liberal economic policies, new trade, new capital was flowing in and out. Business was beginning to boom. This was a nation on the rise, and with the added economic prosperity (of which Filipinos were finally partaking) new thoughts and new desires were being known. Chief among them was education and social and political equality. Twenty-six years after his birth, Jose Rizal would publish Noli mi Tangere, followed by El Filibusterismo. These works, along with his Propaganda endeavors in Europe with other Filipinos, would be the intellectual and philosophical backbone upon which the Revolution rested."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Calamba of Rizal’s youth was a growing town, connected to Manila and the rest of the world by the Pasig River. Rizal would make that journey to Manila for his education, and later on into the world beyond. Felice Sta. Maria summed it up: “Rizal clearly saw science, art and education as beacons of progress. He also sensed that by setting the example of exceptional achievements himself, he could enlighten other Filipinos to find their genius and to advocate racial equality rooted in human dignity.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Today, 149 years ago, near the banks of Laguna de Ba’i was born a giant."
+    }
+  ]
+}

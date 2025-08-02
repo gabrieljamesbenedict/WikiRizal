@@ -1,0 +1,48 @@
+{
+  "title": "Publication of Noli me Tangere",
+  "content": [
+    {
+      "type": "header",
+      "text": "Publication of Noli me Tangere"
+    },
+    {
+      "type": "subheader",
+      "text": "Noli Me Tángere (Latin for \"Touch Me Not\") is a novel by Filipino writer and activist José Rizal and was published during the Spanish colonial period of the Philippines."
+    },
+    {
+      "type": "image",
+      "src": "assets/images/noli-me-tengere.jpg",
+      "alt": "Noli me Tangere"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rizal finished the novel in March 1887. At first, according to one of Rizal's biographers, Rizal feared the novel might not be printed, and that it would remain unread. He was struggling with financial constraints at the time and thought it would be hard to pursue printing the novel."
+    },
+    {
+      "type": "paragraph",
+      "text": "His friend Máximo Viola provided some financial aid, enabling Rizal to have the book printed at Berliner Buchdruckerei-Aktiengesellschaft in Berlin. Viola loaned Rizal ₱300 for 2,000 copies. The printing was finished earlier than the estimated five months. Viola arrived in Berlin in December 1886, and by March 21, 1887, Rizal had sent a copy of the novel to his friend, Ferdinand Blumentritt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Spanish authorities in the Philippines banned the book, but copies were smuggled into the country. The first Philippine edition (and the second published edition) was printed in 1899 in Manila by Chofre y Compania in Escolta."
+    },
+    {
+      "type": "paragraph",
+      "text": "This novel and its sequel, El filibusterismo (nicknamed El fili), were banned by Spanish authorities in the Philippines because of their allegations of corruption and abuse by the colonial government and the Catholic Church. Copies of the book were nevertheless smuggled in and hidden, and when Rizal returned to the Philippines after completing medical studies, he quickly ran afoul of the local government. A few days after his arrival, Rizal was summoned to Malacañan Palace by Governor-General Emilio Terrero, who told him of the charge that Noli Me Tángere contained subversive elements. After a discussion, Terrero was appeased but still unable to offer resistance to pressure from the Church against the book. The persecution can be discerned from Rizal's letter to Ferdinand Blumentritt:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "*My book made a lot of noise; everywhere, I am asked about it. They wanted to anathematize me ['to excommunicate me'] because of it... I am considered a German spy, an agent of Bismarck, they say I am a Protestant, a freemason, a sorcerer, a damned soul and evil. It is whispered that I want to draw plans, that I have a foreign passport and that I wander through the streets by night...*"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Rizal was exiled to Dapitan in Mindanao, then later arrested for \"inciting rebellion\" based largely on his writings. Rizal was executed by firing squad at Bagumbayan outside Manila's walls on December 30, 1896, at the age of thirty-five, at the park that now bears his name."
+    }
+  ]
+}

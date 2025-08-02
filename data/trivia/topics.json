@@ -1,5 +1,14 @@
 {
   "topics": [
-    
+    {"title":"Rizal’s Many Languages","slug":"rizals-many-languages"},
+    {"title":"The Real Meaning Behind 'Rizal'","slug":"the-real-meaning-behind-rizal"},
+    {"title":"Rizal’s Pen Names","slug":"rizals-pen-names"},
+    {"title":"Rizal as a Polyglot Genius","slug":"rizal-as-a-polyglot-genius"},
+    {"title":"Rizal’s Love Life","slug":"rizals-love-life"},
+    {"title":"Rizal the Scientist","slug":"rizal-the-scientist"},
+    {"title":"Rizal’s Hidden Talents","slug":"rizals-hidden-talents"},
+    {"title":"Rizal and the Lottery","slug":"rizal-and-the-lottery"},
+    {"title":"Rizal’s Encounters with Historical Figures","slug":"rizals-encounters-with-historical-figures"},
+    {"title":"Rizal in Pop Culture","slug":"rizal-in-pop-culture"}
   ]
 }
