@@ -1,0 +1,12 @@
+{
+  "title": "Medical Practice",
+  "description": "Explore Jose Rizal's career as a physician and his medical contributions",
+  "topics": [
+    {
+      "title": "Rizal's Medical Practice",
+      "slug": "rizal-medical-practice",
+      "description": "Jose Rizal's education, practice, and contributions as a doctor",
+      "image": "assets/images/rizal-medical-practice-placeholder.jpg"
+    }
+  ]
+}

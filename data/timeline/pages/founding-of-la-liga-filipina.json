@@ -15,7 +15,7 @@
       "alt": "La Liga Filipina"
     },
     {
-      "type": "hr"
+      
     },
     {
       "type": "paragraph",
@@ -47,6 +47,10 @@
         "Encouragement of instruction, agriculture, and commerce",
         "Study the application of reforms"
       ]
-    }
+    },
+		{
+			"type": "paragraph",
+			"text": "[References](https://en.wikipedia.org/wiki/La_Liga_Filipina)"
+		}
   ]
 }

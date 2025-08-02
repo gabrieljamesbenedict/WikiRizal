@@ -15,7 +15,7 @@
       "alt": "Rizals Birthplace"
     },
     {
-      "type": "hr"
+      
     },
     {
       "type": "paragraph",
@@ -36,6 +36,11 @@
     {
       "type": "paragraph",
       "text": "Today, 149 years ago, near the banks of Laguna de Ba’i was born a giant."
-    }
+    },
+		{
+			"type": "paragraph",
+			"text": "[References](https://www.philstar.com/opinion/2010/06/19/585311/rizal-birth)"
+		}
+
   ]
 }

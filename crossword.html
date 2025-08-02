@@ -5,27 +5,169 @@
   <title>Jose Rizal Crossword</title>
   <link rel="stylesheet" href="wiki.css" />
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      margin: 0;
+    /* Override any conflicting styles and apply dark theme */
+    main {
+      padding: 2rem;
+      max-width: 1200px;
+      margin: 0 auto;
       text-align: center;
     }
 
-    h1 {
-      margin-bottom: 20px;
+    .crossword-container {
+      background: linear-gradient(145deg, #1a1a1a, #2d2d2d);
+      border: 1px solid #333;
+      border-radius: 16px;
+      padding: 2rem;
+      margin: 2rem auto;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
     }
 
-    iframe {
-      border: 3px solid black;
-      margin: auto;
+    .crossword-title {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin: 2rem 0;
+      color: #ffffff;
+      letter-spacing: -0.03em;
+      text-align: center;
+    }
+
+    .crossword-description {
+      font-size: 1.1rem;
+      line-height: 1.7;
+      margin: 2rem auto;
+      color: #e0e0e0;
+      max-width: 70ch;
+      text-align: center;
+    }
+
+    .iframe-container {
+      position: relative;
+      width: 100%;
+      max-width: 1000px;
+      margin: 2rem auto;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+      border: 2px solid #333;
+    }
+
+    .crossword-iframe {
+      width: 100%;
+      height: 750px;
+      border: none;
       display: block;
+      background: #ffffff;
     }
 
-    p {
+    .game-instructions {
+      background: rgba(100, 181, 246, 0.1);
+      border: 1px solid #64b5f6;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 2rem auto;
+      color: #e0e0e0;
+      max-width: 800px;
+    }
+
+    .game-instructions h3 {
+      color: #64b5f6;
+      margin-top: 0;
+      font-size: 1.25rem;
+    }
+
+    .game-instructions ul {
+      text-align: left;
       max-width: 600px;
-      margin: 20px auto;
-      font-size: 16px;
+      margin: 0 auto;
+    }
+
+    .game-instructions li {
+      margin-bottom: 0.5rem;
+      line-height: 1.6;
+    }
+
+    /* Mobile Responsiveness */
+    @media (max-width: 768px) {
+      main {
+        padding: 1rem;
+      }
+
+      .crossword-container {
+        padding: 1.5rem;
+        margin: 1rem auto;
+        border-radius: 12px;
+      }
+
+      .crossword-title {
+        font-size: 2rem;
+        margin: 1.5rem 0;
+      }
+
+      .crossword-description {
+        font-size: 1rem;
+        max-width: none;
+        padding: 0 1rem;
+      }
+
+      .iframe-container {
+        max-width: 100%;
+        margin: 1.5rem auto;
+      }
+
+      .crossword-iframe {
+        height: 600px;
+      }
+
+      .game-instructions {
+        padding: 1rem;
+        margin: 1.5rem auto;
+      }
+
+      .game-instructions h3 {
+        font-size: 1.1rem;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .crossword-title {
+        font-size: 1.75rem;
+        line-height: 1.2;
+      }
+
+      .crossword-description {
+        font-size: 0.95rem;
+        line-height: 1.6;
+      }
+
+      .crossword-iframe {
+        height: 500px;
+      }
+
+      .game-instructions {
+        padding: 1rem;
+      }
+
+      .game-instructions ul {
+        padding-left: 1.5rem;
+      }
+    }
+
+    /* Landscape orientation on mobile */
+    @media (max-width: 768px) and (orientation: landscape) {
+      .crossword-iframe {
+        height: 400px;
+      }
+    }
+
+    /* Very small screens */
+    @media (max-width: 320px) {
+      .crossword-iframe {
+        height: 400px;
+      }
+      
+      .crossword-title {
+        font-size: 1.5rem;
+      }
     }
   </style>
 </head>
@@ -35,21 +177,53 @@
 		<nav class="navbar">
 			<h1 class="logo"><a href="index.html">WikiRizal</a></h1>
 			<ul class="nav-menu">
-				<li><a href="page.html?category=biography&slug=overview">Biography</a></li>
+				<li><a href="page.html?category=biography&slug=overview">Life</a></li>
 				<li><a href="page.html?category=works&slug=overview">Works</a></li>
 				<li><a href="page.html?category=timeline&slug=overview">Timeline</a></li>
-				<li><a href="page.html?category=gallery&slug=overview">Gallery</a></li>
 				<li><a href="page.html?category=trivia&slug=overview">Trivia</a></li>
+				<li><a href="page.html?category=family&slug=overview">Family</a></li>
+				<li><a href="page.html?category=medical&slug=overview">Medicine</a></li>
+				<li><a href="page.html?category=literary&slug=overview">Literature</a></li>
+				<li><a href="page.html?category=education&slug=overview">Education</a></li>
         <li><a href="crossword.html">Games</a></li>
+        <li><a href="credits.html">Credits</a></li>
 			</ul>
 		</nav>
 	</header>
 
-  <h1>Interactive Crossword: Life and Works of Jose Rizal</h1>
+  <main>
+    <div class="crossword-container">
+      <h1 class="crossword-title">Interactive Crossword: Life and Works of Jose Rizal</h1>
 
-  <p>Test your knowledge of Dr. Jose Rizal’s life, novels, travels, and legacy by completing the crossword puzzle below. This activity is part of our interactive learning module on the national hero of the Philippines.</p>
+      <p class="crossword-description">Test your knowledge of Dr. Jose Rizal's life, novels, travels, and legacy by completing the crossword puzzle below. This activity is part of our interactive learning module on the national hero of the Philippines.</p>
 
-<iframe width="1000" height="750" style="border:3px solid black; margin:auto; display:block" frameborder="0" src="https://crosswordlabs.com/embed/2025-07-29-93"></iframe>
+      <div class="game-instructions">
+        <h3>How to Play:</h3>
+        <ul>
+          <li>Click on a numbered square to see the clue</li>
+          <li>Type your answer directly into the grid</li>
+          <li>Use the Tab key to move between clues</li>
+          <li>Click "Check" to verify your answers</li>
+          <li>Hint: All answers relate to Jose Rizal's life, works, and historical context</li>
+        </ul>
+      </div>
+
+      <div class="iframe-container">
+        <iframe class="crossword-iframe" src="https://crosswordlabs.com/embed/2025-07-29-93" title="Jose Rizal Crossword Puzzle"></iframe>
+      </div>
+
+      <div class="game-instructions">
+        <h3>Topics Covered:</h3>
+        <ul>
+          <li>Rizal's novels: Noli Me Tangere and El Filibusterismo</li>
+          <li>His travels and education in Europe</li>
+          <li>Family members and personal relationships</li>
+          <li>Historical events and dates</li>
+          <li>Places significant to his life and works</li>
+        </ul>
+      </div>
+    </div>
+  </main>
 
 </body>
 </html>

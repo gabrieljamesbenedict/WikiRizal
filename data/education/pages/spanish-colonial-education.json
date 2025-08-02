@@ -1,0 +1,388 @@
+{
+  "title": "Spanish Colonial Education System",
+  "content": [
+    {
+      "type": "header",
+      "text": "Education Under Spanish Rule: Shaping Colonial Minds"
+    },
+    {
+      "type": "paragraph",
+      "text": "The educational system during Spanish colonial rule in the Philippines (1565-1898) was designed primarily to serve colonial interests rather than Filipino development. Understanding this system is crucial to appreciating Jose Rizal's educational journey and his later advocacy for educational reform. The colonial education system both enabled and constrained Filipino intellectual development, creating the very contradictions that would fuel the reform movement."
+    },
+    {
+      "type": "image",
+      "src": "assets/images/spanish-colonial-classroom-placeholder.jpg",
+      "alt": "Spanish colonial classroom - [Placeholder Image]"
+    },
+    {
+      "type": "subheader",
+      "text": "Overview of Colonial Education"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spanish colonial education was characterized by several key features:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Religious foundation**: Education was primarily controlled by Catholic religious orders",
+        "**Limited access**: Only available to a small elite, mainly Spanish and wealthy Filipino families",
+        "**Gender discrimination**: Different educational tracks for boys and girls",
+        "**Cultural suppression**: Aimed at replacing indigenous knowledge with Spanish-Catholic worldview",
+        "**Language policy**: Spanish was the language of instruction for higher education"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "The Three-Tier System"
+    },
+    {
+      "type": "subheader",
+      "text": "Primary Education (Escuela de Primeras Letras)"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Purpose**: Basic literacy and religious instruction"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Curriculum**:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Reading and writing in Spanish (for the elite) or local languages",
+        "Basic arithmetic",
+        "Catholic catechism and religious doctrine",
+        "Moral instruction based on Catholic teachings"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "**Access**: Limited to Spanish children, mestizos, and wealthy Filipino families. Most Filipino children received no formal education."
+    },
+    {
+      "type": "image",
+      "src": "assets/images/primary-school-colonial-placeholder.jpg",
+      "alt": "Colonial primary school - [Placeholder Image]"
+    },
+    {
+      "type": "subheader",
+      "text": "Secondary Education (Colegios)"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Major Institutions**:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Ateneo Municipal de Manila** (run by Jesuits): Where Rizal studied",
+        "**Colegio de San Juan de Letran** (run by Dominicans)",
+        "**Colegio de Santa Isabel** (for girls, run by Religious of the Virgin Mary)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "**Curriculum**:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Latin grammar and literature",
+        "Spanish language and literature",
+        "Philosophy and theology",
+        "Mathematics and basic sciences",
+        "History (from Spanish perspective)",
+        "Arts and rhetoric"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Higher Education (Universities)"
+    },
+    {
+      "type": "paragraph",
+      "text": "**University of Santo Tomas (1611)**:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Oldest university in Asia, run by Dominican friars",
+        "Offered degrees in Theology, Philosophy, Law, and Medicine",
+        "Discriminatory admission policies favored Spaniards",
+        "Conservative curriculum resistant to modern ideas"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/images/university-santo-tomas-placeholder.jpg",
+      "alt": "University of Santo Tomas in Rizal's time - [Placeholder Image]"
+    },
+    {
+      "type": "subheader",
+      "text": "Educational Methods and Philosophy"
+    },
+    {
+      "type": "subheader",
+      "text": "Scholastic Method"
+    },
+    {
+      "type": "paragraph",
+      "text": "Education followed medieval scholastic traditions:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Rote memorization**: Students memorized texts without critical analysis",
+        "**Authority-based learning**: Unquestioning acceptance of religious and colonial authority",
+        "**Latin emphasis**: Heavy focus on Latin language and classical texts",
+        "**Theological framework**: All knowledge filtered through Catholic doctrine"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Jesuit Education"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Jesuit approach at Ateneo was somewhat more progressive:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Ratio Studiorum**: Systematic educational method emphasizing discipline and excellence",
+        "**Character formation**: Focus on developing moral and intellectual virtues",
+        "**Competition and awards**: Merit-based recognition system",
+        "**Practical subjects**: Some attention to modern languages and sciences"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/images/jesuit-classroom-placeholder.jpg",
+      "alt": "Jesuit classroom at Ateneo - [Placeholder Image]"
+    },
+    {
+      "type": "subheader",
+      "text": "Gender and Education"
+    },
+    {
+      "type": "subheader",
+      "text": "Education for Boys"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Preparation for professional careers (law, medicine, priesthood)",
+        "Classical education with emphasis on Latin and philosophy",
+        "Leadership and public speaking skills",
+        "Access to higher education"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Education for Girls"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Domestic skills: sewing, cooking, household management",
+        "Religious instruction and moral guidance",
+        "Basic literacy (often limited to prayer books)",
+        "Preparation for marriage and motherhood",
+        "Very limited access to higher learning"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/images/colonial-girls-school-placeholder.jpg",
+      "alt": "Colonial school for girls - [Placeholder Image]"
+    },
+    {
+      "type": "subheader",
+      "text": "Social Impact of Colonial Education"
+    },
+    {
+      "type": "subheader",
+      "text": "Creation of the Ilustrado Class"
+    },
+    {
+      "type": "paragraph",
+      "text": "Colonial education created a small but influential class of educated Filipinos:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Privileged access**: Only wealthy families could afford education",
+        "**Cultural hybridization**: Filipinos educated in Spanish-Catholic traditions",
+        "**Professional opportunities**: Careers in law, medicine, and government",
+        "**Political consciousness**: Exposure to liberal ideas, especially those studying in Europe"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Language and Cultural Impact"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Spanish as prestige language**: Spanish fluency became a mark of social status",
+        "**Suppression of indigenous languages**: Local languages relegated to informal use",
+        "**Cultural alienation**: Educated Filipinos sometimes distanced from local traditions",
+        "**Religious conversion**: Systematic replacement of indigenous beliefs with Catholicism"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Problems and Limitations"
+    },
+    {
+      "type": "subheader",
+      "text": "Systemic Discrimination"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Racial hierarchy**: Spaniards received preferential treatment",
+        "**Limited Filipino advancement**: Glass ceiling for Filipino students and professionals",
+        "**Economic barriers**: High costs excluded most Filipinos",
+        "**Geographic limitations**: Schools concentrated in Manila and major towns"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Outdated Curriculum"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Resistance to modern ideas**: Slow to incorporate scientific advances",
+        "**Limited practical skills**: Emphasis on classical rather than practical knowledge",
+        "**Censorship**: Prohibited books and ideas that challenged colonial authority",
+        "**Conservative theology**: Rigid adherence to medieval Catholic doctrine"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/images/colonial-education-problems-placeholder.jpg",
+      "alt": "Illustration of colonial education limitations - [Placeholder Image]"
+    },
+    {
+      "type": "subheader",
+      "text": "Rizal's Educational Experience"
+    },
+    {
+      "type": "subheader",
+      "text": "At Ateneo (1872-1877)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rizal's experience at Ateneo showed both the strengths and weaknesses of colonial education:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Academic excellence**: Graduated as valedictorian with highest honors",
+        "**Character development**: Jesuit education emphasized moral formation",
+        "**Discrimination experienced**: Despite his achievements, faced limitations due to his race",
+        "**Foundation for future learning**: Strong basis in languages and humanities"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "At University of Santo Tomas (1877-1882)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Conservative environment**: Found the curriculum outdated and discriminatory",
+        "**Limited opportunities**: Realized the constraints placed on Filipino students",
+        "**Motivation for Europe**: Dissatisfaction led to his decision to study abroad",
+        "**Critical awareness**: Developed understanding of educational system's limitations"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Comparison with European Education"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rizal's experience in Europe revealed the gaps in colonial education:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Academic freedom**: European universities encouraged critical thinking and debate",
+        "**Modern curriculum**: Exposure to latest scientific and philosophical developments",
+        "**Merit-based advancement**: Success based on ability rather than race or social status",
+        "**Liberal environment**: Exposure to democratic ideals and human rights concepts"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/images/european-university-placeholder.jpg",
+      "alt": "European university in Rizal's time - [Placeholder Image]"
+    },
+    {
+      "type": "subheader",
+      "text": "Educational Reform Advocacy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rizal's educational experiences shaped his reform agenda:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Secular education**: Advocated for education free from excessive religious control",
+        "**Filipino teachers**: Supported training Filipino educators",
+        "**Practical curriculum**: Emphasized technical and scientific education",
+        "**Equal access**: Called for educational opportunities regardless of race or gender",
+        "**Modern methods**: Supported progressive pedagogical approaches"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "The School Project in San Diego"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 'Noli Me Tangere,' Ibarra's school project represents Rizal's educational ideals:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Community-based**: School built with local support and involvement",
+        "**Modern architecture**: Building designed for proper ventilation and lighting",
+        "**Secular orientation**: Emphasis on practical rather than purely religious education",
+        "**Filipino identity**: Celebration of local culture alongside universal knowledge"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Legacy and Impact"
+    },
+    {
+      "type": "paragraph",
+      "text": "The colonial education system had lasting effects on Philippine society:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Elite formation**: Created an educated class that would lead the independence movement",
+        "**Cultural dualism**: Tension between Western and indigenous knowledge systems",
+        "**Language hierarchy**: Spanish (later English) as languages of power and prestige",
+        "**Educational inequality**: Patterns of limited access that persisted beyond colonial period"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Understanding the Spanish colonial education system helps explain both the achievements and limitations of the reform movement. It created the intellectual tools that reformers like Rizal used to critique colonialism, while simultaneously constraining their opportunities and reinforcing colonial hierarchies. This contradiction would ultimately contribute to the radicalization of the independence movement and the eventual end of Spanish rule."
+    },
+    {
+      "type": "image",
+      "src": "assets/images/modern-philippine-education-placeholder.jpg",
+      "alt": "Evolution to modern Philippine education - [Placeholder Image]"
+    }
+  ]
+}

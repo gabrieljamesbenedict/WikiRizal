@@ -15,7 +15,7 @@
       "alt": "Execution of Rizal"
     },
     {
-      "type": "hr"
+      
     },
     {
       "type": "paragraph",
@@ -32,6 +32,10 @@
     {
       "type": "paragraph",
       "text": "Before the late 19th century, “Philippines” was only a geographical term for a vast archipelago of some 7,000 islands. The Philippine Revolution was borne of a consciousness by the inhabitants of these islands that they could be one nation bound by a common culture, history and destiny. Rizal’s execution served to broaden this consciousness. The Philippines was the first country in Asia to stage a national revolution and declare its independence on 12th June 1898. By virtue of his daring vision and the forcefulness of his language and imagination, Rizal not only pioneered the Philippine national consciousness – but his martyrdom would also send a trenchant message to the colonial powers throughout the vast region of Asia."
-    }
+    },
+		{
+			"type": "paragraph",
+			"text": "[References](https://www.onthisdeity.com/30th-december-1896-%E2%80%93-the-execution-of-jose-rizal/)"
+		}
   ]
 }

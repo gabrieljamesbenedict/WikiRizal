@@ -1,0 +1,41 @@
+{
+  "title": "Credits",
+  "content": [
+    {
+      "type": "header",
+      "text": "Credits to the Developers"
+    },
+    {
+      "type": "subheader",
+      "text": "All those who have contributed to this project"
+    },
+    {
+      
+    },
+    {
+        "type": "paragraph",
+        "text": "Project Leader:"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "Gabriel James Benedict"
+      ]
+    },
+    {
+        "type": "paragraph",
+        "text": "Other Contributors:"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "Euan Miguel",
+        "Paul Leondard",
+        "Bryan Luise",
+        "Ahron"
+      ]
+    }
+  ]
+}

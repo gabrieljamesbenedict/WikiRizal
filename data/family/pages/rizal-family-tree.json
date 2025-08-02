@@ -1,0 +1,107 @@
+{
+  "title": "Rizal's Family Tree",
+  "content": [
+    {
+      "type": "header",
+      "text": "The Rizal Family Tree"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jose Rizal came from a prominent family in Calamba, Laguna. His family's influence and values significantly shaped his character, intellect, and nationalist ideals. Understanding his family background provides crucial insight into the making of our national hero."
+    },
+    {
+      "type": "image",
+      "src": "assets/images/rizal-family-portrait-placeholder.jpg",
+      "alt": "Rizal Family Portrait - [Placeholder Image]"
+    },
+    {
+      "type": "subheader",
+      "text": "Parents"
+    },
+    {
+      "type": "paragraph",
+      "text": "Francisco Rizal Mercado (1818-1897) was Jose's father, a successful farmer and businessman who owned rice fields and other properties in Calamba. He was known for his integrity and business acumen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Teodora Alonso Realonda (1826-1913) was Jose's mother, an educated woman who taught Jose his first lessons. She was well-versed in literature and languages, and her intellectual influence on Jose was profound. She came from a family of educators and was known for her strong character and devotion to her children's education."
+    },
+    {
+      "type": "image",
+      "src": "assets/images/teodora-alonso-placeholder.jpg",
+      "alt": "Teodora Alonso, Rizal's Mother - [Placeholder Image]"
+    },
+    {
+      "type": "subheader",
+      "text": "Siblings: The Rizal Children"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jose was the seventh of eleven children. Each sibling played a unique role in the family and had their own contributions to society:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Saturnina Rizal (1850-1913)** - The eldest, nicknamed 'Neneng.' She was Jose's confidante and supporter throughout his life.",
+        "**Paciano Rizal (1851-1930)** - Jose's older brother and closest sibling. A revolutionary and Jose's financial supporter during his studies abroad.",
+        "**Narcisa Rizal (1852-1939)** - Known for her beauty and grace, she married Antonio Lopez and lived in Calamba.",
+        "**Olimpia Rizal (1855-1887)** - Married Silvestre Ubaldo and was known for her kindness and religious devotion.",
+        "**Lucia Rizal (1857-1919)** - Married Marianno Herbosa and was known for her strong personality.",
+        "**Maria Rizal (1859-1945)** - Married Daniel Faustino Cruz and was the longest-lived among the siblings.",
+        "**Jose Protacio Rizal (1861-1896)** - Our national hero, the seventh child.",
+        "**Concepcion Rizal (1862-1865)** - Known as 'Concha,' she died at age 3. Her death deeply affected young Jose.",
+        "**Josefa Rizal (1865-1945)** - An unmarried sister who was known for her literary talents and remained devoted to Jose's memory.",
+        "**Trinidad Rizal (1868-1951)** - Also unmarried, she preserved many of Jose's belongings and memories.",
+        "**Soledad Rizal (1870-1929)** - The youngest, nicknamed 'Choleng.' She married Pantaleon Quintero."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/images/rizal-siblings-placeholder.jpg",
+      "alt": "The Rizal Siblings - [Placeholder Image]"
+    },
+    {
+      "type": "subheader",
+      "text": "Extended Family Influence"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Mercado and Alonso families were both influential in their communities. The Mercados were successful in business and agriculture, while the Alonsos were known for their educational background and intellectual pursuits."
+    },
+    {
+      "type": "subheader",
+      "text": "Family Values and Their Impact on Jose"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Education First**: Both parents prioritized education for all their children, not just the boys.",
+        "**Strong Work Ethic**: The family's success in business and agriculture instilled discipline and perseverance.",
+        "**Religious Devotion**: The family's Catholic faith provided moral foundation, though Jose would later develop more complex religious views.",
+        "**Love of Country**: Paciano's involvement in reform movements influenced Jose's early nationalist thinking.",
+        "**Literary Appreciation**: Teodora's love for literature and poetry inspired Jose's artistic development."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/images/calamba-ancestral-home-placeholder.jpg",
+      "alt": "Rizal Ancestral Home in Calamba - [Placeholder Image]"
+    },
+    {
+      "type": "subheader",
+      "text": "The Mercado Name Change"
+    },
+    {
+      "type": "paragraph",
+      "text": "The family originally used the surname 'Mercado' (meaning 'market' in Spanish). When Jose enrolled in Ateneo, he used 'Rizal' (meaning 'green field') to avoid the stigma attached to the Mercado name due to Paciano's involvement in reform activities. This name change would become historically significant as it's the name by which our national hero is known."
+    },
+    {
+      "type": "subheader",
+      "text": "Legacy of the Rizal Family"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Rizal family's emphasis on education, moral values, and love of country created the environment that nurtured a national hero. Their support, particularly from Paciano and his parents, enabled Jose to pursue his studies abroad and develop into the intellectual and reformist who would inspire a nation's struggle for independence."
+    }
+  ]
+}
