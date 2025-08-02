@@ -1,0 +1,25 @@
+{
+  "title": "Credits",
+  "content": [
+    {
+      "type": "header",
+      "text": "Credits to the Developers"
+    },
+    {
+      "type": "subheader",
+      "text": "All those who have contributed to this project"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "Gabriel James Benedict M. Loslos",
+        "Euan Miguel B. Gatchalian",
+        "Paul Leondard D. Tuason"
+      ]
+    }
+  ]
+}
