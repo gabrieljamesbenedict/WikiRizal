@@ -2,32 +2,32 @@
   "title": "Rizal's Medical Practice",
   "content": [
     {
-      "type": "h1",
+      "type": "header",
       "text": "Jose Rizal: The Doctor-Hero"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Beyond his role as a national hero and writer, Jose Rizal was a skilled physician who practiced medicine in various countries. His medical career demonstrates his commitment to serving humanity through healing, complementing his efforts to heal the Filipino nation through his writings and reforms."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/rizal-medical-degree-placeholder.jpg",
       "alt": "Rizal's Medical Degree from Universidad Central de Madrid - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Medical Education"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Rizal initially enrolled in Philosophy and Letters at the University of Santo Tomas in Manila, but later shifted to Medicine. However, dissatisfied with the quality of education and discriminatory treatment, he decided to continue his studies in Europe."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Studies in Madrid (1882-1885)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "At the Universidad Central de Madrid, Rizal excelled in his medical studies. He completed his degree in Medicine and Surgery in 1884, followed by a degree in Philosophy and Letters in 1885. His academic performance was exceptional, earning high marks in subjects including:"
     },
     {
@@ -42,33 +42,33 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/universidad-central-madrid-placeholder.jpg",
       "alt": "Universidad Central de Madrid where Rizal studied - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Specialization in Ophthalmology"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Rizal chose to specialize in ophthalmology (eye diseases) partly due to his mother Teodora's developing eye problems. He pursued advanced training in Paris under Dr. Louis de Wecker, a renowned French ophthalmologist, and later in Germany under Dr. Otto Becker in Heidelberg."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "His specialization was motivated by both personal reasons (his mother's cataracts) and practical considerations, as eye diseases were common in the tropical Philippines due to the intense sunlight and poor sanitary conditions."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/rizal-ophthalmology-tools-placeholder.jpg",
       "alt": "19th Century Ophthalmology Instruments - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Medical Practice in Europe"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "During his stay in Europe, Rizal practiced medicine in several locations:"
     },
     {
@@ -80,15 +80,15 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Return to the Philippines: Medical Practice in Calamba"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "When Rizal returned to the Philippines in 1887, he immediately began practicing medicine. His first and most famous patient was his own mother, from whom he successfully removed cataracts, restoring her sight. This achievement enhanced his reputation as a skilled physician."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "In Calamba, Rizal established a medical practice that served both the wealthy and the poor. He was known for:"
     },
     {
@@ -101,24 +101,24 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/rizal-treating-patients-placeholder.jpg",
       "alt": "Rizal treating patients in Calamba - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Medical Practice in Hong Kong (1891-1892)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "During his exile, Rizal established a successful medical practice in Hong Kong. He rented space in the Philippine Pharmacy on Calle Rosario and quickly built a reputation among both Filipino and foreign patients. His practice was so successful that he was able to support his family back in the Philippines."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Medical Practice in Dapitan (1892-1896)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "During his exile in Dapitan, Rizal continued practicing medicine while also engaging in other activities. His medical practice in Dapitan was characterized by:"
     },
     {
@@ -132,12 +132,12 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/rizal-dapitan-clinic-placeholder.jpg",
       "alt": "Rizal's medical clinic in Dapitan - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Notable Medical Cases and Achievements"
     },
     {
@@ -150,11 +150,11 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Medical Philosophy and Approach"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Rizal's approach to medicine reflected his humanitarian values:"
     },
     {
@@ -168,16 +168,16 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/medical-instruments-19th-century-placeholder.jpg",
       "alt": "Medical instruments from Rizal's era - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Legacy as a Physician"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Rizal's medical career demonstrates several important aspects of his character:"
     },
     {
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Jose Rizal's medical career exemplifies his multifaceted genius and his commitment to serving humanity. As a doctor, he healed bodies; as a writer and reformist, he sought to heal the nation. His medical practice provided him with a respectable profession while allowing him to maintain close contact with people from all walks of life, enriching his understanding of Filipino society and strengthening his resolve to work for meaningful reform."
     }
   ]

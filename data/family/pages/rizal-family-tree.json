@@ -2,41 +2,41 @@
   "title": "Rizal's Family Tree",
   "content": [
     {
-      "type": "h1",
+      "type": "header",
       "text": "The Rizal Family Tree"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Jose Rizal came from a prominent family in Calamba, Laguna. His family's influence and values significantly shaped his character, intellect, and nationalist ideals. Understanding his family background provides crucial insight into the making of our national hero."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/rizal-family-portrait-placeholder.jpg",
       "alt": "Rizal Family Portrait - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Parents"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Francisco Rizal Mercado (1818-1897) was Jose's father, a successful farmer and businessman who owned rice fields and other properties in Calamba. He was known for his integrity and business acumen."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Teodora Alonso Realonda (1826-1913) was Jose's mother, an educated woman who taught Jose his first lessons. She was well-versed in literature and languages, and her intellectual influence on Jose was profound. She came from a family of educators and was known for her strong character and devotion to her children's education."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/teodora-alonso-placeholder.jpg",
       "alt": "Teodora Alonso, Rizal's Mother - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Siblings: The Rizal Children"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Jose was the seventh of eleven children. Each sibling played a unique role in the family and had their own contributions to society:"
     },
     {
@@ -56,20 +56,20 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/rizal-siblings-placeholder.jpg",
       "alt": "The Rizal Siblings - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Extended Family Influence"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The Mercado and Alonso families were both influential in their communities. The Mercados were successful in business and agriculture, while the Alonsos were known for their educational background and intellectual pursuits."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Family Values and Their Impact on Jose"
     },
     {
@@ -83,24 +83,24 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/calamba-ancestral-home-placeholder.jpg",
       "alt": "Rizal Ancestral Home in Calamba - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Mercado Name Change"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The family originally used the surname 'Mercado' (meaning 'market' in Spanish). When Jose enrolled in Ateneo, he used 'Rizal' (meaning 'green field') to avoid the stigma attached to the Mercado name due to Paciano's involvement in reform activities. This name change would become historically significant as it's the name by which our national hero is known."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Legacy of the Rizal Family"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The Rizal family's emphasis on education, moral values, and love of country created the environment that nurtured a national hero. Their support, particularly from Paciano and his parents, enabled Jose to pursue his studies abroad and develop into the intellectual and reformist who would inspire a nation's struggle for independence."
     }
   ]

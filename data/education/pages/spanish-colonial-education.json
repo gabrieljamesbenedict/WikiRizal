@@ -2,24 +2,24 @@
   "title": "Spanish Colonial Education System",
   "content": [
     {
-      "type": "h1",
+      "type": "header",
       "text": "Education Under Spanish Rule: Shaping Colonial Minds"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The educational system during Spanish colonial rule in the Philippines (1565-1898) was designed primarily to serve colonial interests rather than Filipino development. Understanding this system is crucial to appreciating Jose Rizal's educational journey and his later advocacy for educational reform. The colonial education system both enabled and constrained Filipino intellectual development, creating the very contradictions that would fuel the reform movement."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/spanish-colonial-classroom-placeholder.jpg",
       "alt": "Spanish colonial classroom - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Overview of Colonial Education"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Spanish colonial education was characterized by several key features:"
     },
     {
@@ -33,19 +33,19 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Three-Tier System"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Primary Education (Escuela de Primeras Letras)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Purpose**: Basic literacy and religious instruction"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Curriculum**:"
     },
     {
@@ -58,20 +58,20 @@
       ]
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Access**: Limited to Spanish children, mestizos, and wealthy Filipino families. Most Filipino children received no formal education."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/primary-school-colonial-placeholder.jpg",
       "alt": "Colonial primary school - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Secondary Education (Colegios)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Major Institutions**:"
     },
     {
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Curriculum**:"
     },
     {
@@ -98,11 +98,11 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Higher Education (Universities)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**University of Santo Tomas (1611)**:"
     },
     {
@@ -115,20 +115,20 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/university-santo-tomas-placeholder.jpg",
       "alt": "University of Santo Tomas in Rizal's time - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Educational Methods and Philosophy"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Scholastic Method"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Education followed medieval scholastic traditions:"
     },
     {
@@ -141,11 +141,11 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Jesuit Education"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The Jesuit approach at Ateneo was somewhat more progressive:"
     },
     {
@@ -158,16 +158,16 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/jesuit-classroom-placeholder.jpg",
       "alt": "Jesuit classroom at Ateneo - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Gender and Education"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Education for Boys"
     },
     {
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Education for Girls"
     },
     {
@@ -194,20 +194,20 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/colonial-girls-school-placeholder.jpg",
       "alt": "Colonial school for girls - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Social Impact of Colonial Education"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Creation of the Ilustrado Class"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Colonial education created a small but influential class of educated Filipinos:"
     },
     {
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Language and Cultural Impact"
     },
     {
@@ -233,11 +233,11 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Problems and Limitations"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Systemic Discrimination"
     },
     {
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Outdated Curriculum"
     },
     {
@@ -263,20 +263,20 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/colonial-education-problems-placeholder.jpg",
       "alt": "Illustration of colonial education limitations - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Rizal's Educational Experience"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "At Ateneo (1872-1877)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Rizal's experience at Ateneo showed both the strengths and weaknesses of colonial education:"
     },
     {
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "At University of Santo Tomas (1877-1882)"
     },
     {
@@ -302,11 +302,11 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Comparison with European Education"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Rizal's experience in Europe revealed the gaps in colonial education:"
     },
     {
@@ -319,16 +319,16 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/european-university-placeholder.jpg",
       "alt": "European university in Rizal's time - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Educational Reform Advocacy"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Rizal's educational experiences shaped his reform agenda:"
     },
     {
@@ -342,11 +342,11 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The School Project in San Diego"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "In 'Noli Me Tangere,' Ibarra's school project represents Rizal's educational ideals:"
     },
     {
@@ -359,11 +359,11 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Legacy and Impact"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The colonial education system had lasting effects on Philippine society:"
     },
     {
@@ -376,11 +376,11 @@
       ]
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Understanding the Spanish colonial education system helps explain both the achievements and limitations of the reform movement. It created the intellectual tools that reformers like Rizal used to critique colonialism, while simultaneously constraining their opportunities and reinforcing colonial hierarchies. This contradiction would ultimately contribute to the radicalization of the independence movement and the eventual end of Spanish rule."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/modern-philippine-education-placeholder.jpg",
       "alt": "Evolution to modern Philippine education - [Placeholder Image]"
     }

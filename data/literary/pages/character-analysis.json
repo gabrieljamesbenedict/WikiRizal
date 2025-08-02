@@ -2,32 +2,32 @@
   "title": "Character Analysis: Rizal's Novels",
   "content": [
     {
-      "type": "h1",
+      "type": "header",
       "text": "Character Analysis: The People of Rizal's World"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Jose Rizal's novels 'Noli Me Tangere' and 'El Filibusterismo' present a rich tapestry of characters that represent different aspects of Philippine society under Spanish colonial rule. Each character is carefully crafted to embody specific social, political, or moral themes, making them both individual personalities and symbolic representations of larger societal issues."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/rizal-novel-characters-placeholder.jpg",
       "alt": "Main characters from Rizal's novels - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Heroes and Protagonists"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Juan Crisóstomo Ibarra (Noli Me Tangere)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Profile**: A young, wealthy, and educated Filipino who returns from Europe with idealistic plans to help his country through peaceful reform and education."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Personality Traits**:"
     },
     {
@@ -41,24 +41,24 @@
       ]
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Arc**: Ibarra transforms from an optimistic reformer to a man who realizes the limitations of peaceful change. His journey represents the disillusionment many educated Filipinos experienced when confronted with colonial reality."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/ibarra-transformation-placeholder.jpg",
       "alt": "Ibarra's character transformation - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Simoun (El Filibusterismo)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Profile**: The dark transformation of Ibarra, now disguised as a wealthy jeweler who seeks violent revolution rather than peaceful reform."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Personality Traits**:"
     },
     {
@@ -72,23 +72,23 @@
       ]
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Significance**: Simoun represents the radicalization that occurs when peaceful reform fails, showing how idealists can become revolutionaries when pushed to extremes."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Tragic Figures"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "María Clara (Noli Me Tangere)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Profile**: Ibarra's childhood sweetheart, representing the idealized Filipino woman of the 19th century."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Personality Traits**:"
     },
     {
@@ -102,44 +102,44 @@
       ]
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Tragic Flaw**: Her inability to break free from social constraints ultimately leads to her downfall, representing how colonial society trapped Filipino women in restrictive roles."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/maria-clara-portrait-placeholder.jpg",
       "alt": "María Clara character portrait - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Sisa (Noli Me Tangere)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Profile**: A mother driven to madness by the loss of her sons and the injustices she suffers."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Symbolism**: Represents the Philippines itself - a motherland driven to despair by colonial abuse. Her madness symbolizes the collective trauma of the Filipino people."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Significance**: Sisa's tragic fate highlights the human cost of colonial oppression, particularly its impact on families and the most vulnerable members of society."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Wise and Noble"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Elías (Noli Me Tangere)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Profile**: A mysterious boatman who becomes Ibarra's friend and represents the common Filipino's wisdom and dignity."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Personality Traits**:"
     },
     {
@@ -153,40 +153,40 @@
       ]
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Role**: Serves as Ibarra's moral compass and represents the untapped potential of the Filipino masses."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/elias-character-placeholder.jpg",
       "alt": "Elías character illustration - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Basilio and Crispin (Noli Me Tangere)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Profiles**: Sisa's young sons who suffer abuse at the hands of the church authorities."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Symbolism**: Represent the future of the Philippines - innocent children corrupted and destroyed by colonial oppression. Their fate questions what kind of future awaits the next generation under such a system."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Corrupt and Oppressive"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Padre Dámaso (Noli Me Tangere)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Profile**: An arrogant Spanish friar who represents the worst aspects of colonial religious authority."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Flaws**:"
     },
     {
@@ -200,19 +200,19 @@
       ]
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Significance**: Embodies the corruption of colonial religious institutions and the abuse of spiritual authority for temporal power."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Doña Victorina (Noli Me Tangere)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Profile**: A Filipino woman who aspires to Spanish status and looks down on her own people."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Traits**:"
     },
     {
@@ -225,48 +225,48 @@
       ]
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Symbolism**: Represents colonial mentality - Filipinos who internalize colonial values and reject their own identity."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/colonial-mentality-placeholder.jpg",
       "alt": "Representation of colonial mentality - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Complex Characters"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Kapitan Tiago (Both novels)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Profile**: A wealthy Filipino businessman who collaborates with Spanish authorities."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Complexity**: While opportunistic and self-serving, he also shows genuine love for María Clara and represents the Filipino elite's difficult position under colonial rule."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Padre Florentino (El Filibusterismo)"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Character Profile**: A Filipino priest who represents what religious authority could be - moral, wise, and genuinely caring."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "**Significance**: Contrasts with corrupt Spanish friars, showing that the problem is not religion itself but its abuse by colonial authorities."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Character Development Techniques"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Rizal employs several literary techniques in character development:"
     },
     {
@@ -280,16 +280,16 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/character-relationships-placeholder.jpg",
       "alt": "Character relationship diagram - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Ensemble Cast as Social Commentary"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Taken together, Rizal's characters form a comprehensive portrait of Philippine colonial society:"
     },
     {
@@ -304,15 +304,15 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Lasting Impact"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Rizal's characters have become archetypes in Philippine literature and culture. Names like María Clara, Crisóstomo Ibarra, and Padre Dámaso are instantly recognizable to Filipinos and continue to be used to describe certain personality types or social phenomena. This enduring relevance speaks to Rizal's skill in creating characters that are both specific to their historical moment and universal in their human qualities."
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Through his masterful character development, Rizal created not just a story, but a mirror of Philippine society that continues to reflect truths about power, corruption, idealism, and the human condition. His characters remain vivid and relevant because they embody timeless human struggles within the specific context of colonial Philippines."
     }
   ]

@@ -2,36 +2,36 @@
   "title": "Symbolism in Noli Me Tangere",
   "content": [
     {
-      "type": "h1",
+      "type": "header",
       "text": "Hidden Meanings: Symbolism in Noli Me Tangere"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Jose Rizal's 'Noli Me Tangere' is rich with symbolism that goes beyond its surface narrative. Published in 1887, the novel uses characters, places, and events as symbols to critique Spanish colonial rule and Filipino society. Understanding these symbols reveals the deeper layers of Rizal's social commentary and his vision for Philippine reform."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/noli-me-tangere-cover-placeholder.jpg",
       "alt": "Original cover of Noli Me Tangere - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Title: 'Noli Me Tangere'"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The title itself is deeply symbolic, taken from Latin meaning 'Touch Me Not' - the words Jesus spoke to Mary Magdalene after his resurrection. Rizal uses this biblical reference to suggest that the Philippines, like the resurrected Christ, should not be touched or harmed by colonial oppression. The title warns against further abuse of the Filipino people."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Character Symbolism"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Juan Crisóstomo Ibarra"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Ibarra represents the educated Filipino who returns from Europe with liberal ideas and hopes for reform. His character symbolizes:"
     },
     {
@@ -44,16 +44,16 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/ibarra-character-placeholder.jpg",
       "alt": "Artistic representation of Crisóstomo Ibarra - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "María Clara"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "María Clara symbolizes the Philippines itself - beautiful, pure, but oppressed and trapped by colonial circumstances:"
     },
     {
@@ -66,11 +66,11 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Padre Dámaso"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The arrogant and corrupt friar represents the worst aspects of Spanish colonial rule:"
     },
     {
@@ -83,16 +83,16 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/padre-damaso-placeholder.jpg",
       "alt": "Padre Dámaso character illustration - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Elías"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Elías represents the common Filipino who suffers under the system but maintains dignity and wisdom:"
     },
     {
@@ -105,15 +105,15 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Symbolic Places and Settings"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "San Diego"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The fictional town represents the typical Filipino municipality under Spanish rule, complete with:"
     },
     {
@@ -126,16 +126,16 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/san-diego-town-placeholder.jpg",
       "alt": "Artistic representation of San Diego town - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The School"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Ibarra's school project symbolizes:"
     },
     {
@@ -148,11 +148,11 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Cemetery"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The graveyard where Don Rafael's body is moved represents:"
     },
     {
@@ -165,36 +165,36 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Symbolic Events and Objects"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Dinner Party"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Ibarra's dinner party symbolizes the attempt to bridge different social groups, but also reveals the deep-seated prejudices and conflicts that make unity difficult."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Theater Performance"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The play within the novel represents art's power to reflect society and its problems, while also showing how cultural expression can be a form of resistance."
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/noli-theater-scene-placeholder.jpg",
       "alt": "Theater scene from Noli Me Tangere - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Cornerstone Ceremony"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The laying of the school's cornerstone represents:"
     },
     {
@@ -207,23 +207,23 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Natural Symbolism"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Lake"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Laguna de Bay represents the natural beauty and tranquility of the Philippines, contrasting with the social turmoil caused by colonial rule."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Forest"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The wilderness where Elías lives symbolizes:"
     },
     {
@@ -236,16 +236,16 @@
       ]
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/philippine-forest-placeholder.jpg",
       "alt": "Philippine forest landscape - [Placeholder Image]"
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Religious Symbolism"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Rizal masterfully uses Christian imagery throughout the novel:"
     },
     {
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Color Symbolism"
     },
     {
@@ -271,11 +271,11 @@
       ]
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "The Novel's Overall Symbolic Message"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "'Noli Me Tangere' functions as an extended allegory for the Philippines under Spanish rule. Through its intricate web of symbols, Rizal creates a powerful critique that operates on multiple levels:"
     },
     {
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "The novel's enduring power comes from Rizal's skillful use of symbolism to create a work that speaks to universal themes of justice, freedom, and human dignity while remaining deeply rooted in the specific historical context of 19th-century Philippines. These symbols continue to resonate with readers today, making 'Noli Me Tangere' not just a historical document, but a living work of art that continues to inspire and challenge."
     }
   ]

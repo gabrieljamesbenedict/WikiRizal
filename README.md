@@ -79,19 +79,19 @@ All content is stored in JSON files with a specific structure:
   "title": "Page Title",
   "content": [
     {
-      "type": "h1",
+      "type": "header",
       "text": "Main Heading"
     },
     {
-      "type": "p",
+      "type": "paragraph",
       "text": "Paragraph content with detailed information."
     },
     {
-      "type": "h2",
+      "type": "subheader",
       "text": "Subheading"
     },
     {
-      "type": "img",
+      "type": "image",
       "src": "assets/images/image-name.jpg",
       "alt": "Image description"
     },
@@ -111,10 +111,10 @@ All content is stored in JSON files with a specific structure:
 
 | Type | Usage | Example |
 |------|-------|---------|
-| `h1` | Main headings | `{"type": "h1", "text": "Jose Rizal's Education"}` |
-| `h2` | Subheadings | `{"type": "h2", "text": "University Years"}` |
-| `p` | Paragraphs | `{"type": "p", "text": "Detailed paragraph..."}` |
-| `img` | Images | `{"type": "img", "src": "path/to/image.jpg", "alt": "Description"}` |
+| `header` | Main headings | `{"type": "header", "text": "Jose Rizal's Education"}` |
+| `subheader` | Subheadings | `{"type": "subheader", "text": "University Years"}` |
+| `paragraph` | Paragraphs | `{"type": "paragraph", "text": "Detailed paragraph..."}` |
+| `image` | Images | `{"type": "image", "src": "path/to/image.jpg", "alt": "Description"}` |
 | `list` | Bullet lists | `{"type": "list", "items": ["Item 1", "Item 2"]}` |
 
 #### 3. Adding a New Section
@@ -174,7 +174,7 @@ assets/images/
 
 ```json
 {
-  "type": "img",
+  "type": "image",
   "src": "assets/images/your-image-name.jpg",
   "alt": "Descriptive alt text for accessibility"
 }
