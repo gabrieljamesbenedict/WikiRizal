@@ -1,0 +1,18 @@
+{
+  "title": "Literary Analysis",
+  "description": "Deep analysis of Jose Rizal's literary works and their meanings",
+  "topics": [
+    {
+      "title": "Symbolism in Noli Me Tangere",
+      "slug": "symbolism-noli-me-tangere",
+      "description": "Exploring the hidden meanings and symbols in Rizal's first novel",
+      "image": "assets/images/noli-symbolism-placeholder.jpg"
+    },
+    {
+      "title": "Character Analysis",
+      "slug": "character-analysis",
+      "description": "In-depth analysis of major characters in Rizal's novels",
+      "image": "assets/images/rizal-characters-placeholder.jpg"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Colonial Education",
+  "description": "Understanding the educational system during Spanish colonial period in the Philippines",
+  "topics": [
+    {
+      "title": "Spanish Colonial Education",
+      "slug": "spanish-colonial-education",
+      "description": "The educational system during Rizal's time and its impact on Filipino society",
+      "image": "assets/images/colonial-school-placeholder.jpg"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Rizal's Family",
+  "description": "Learn about Jose Rizal's family members and their influence on his life",
+  "topics": [
+    {
+      "title": "Rizal's Family Tree",
+      "slug": "rizal-family-tree", 
+      "description": "Complete genealogy and family connections of Jose Rizal",
+      "image": "assets/images/rizal-family-tree-placeholder.jpg"
+    }
+  ]
+}
