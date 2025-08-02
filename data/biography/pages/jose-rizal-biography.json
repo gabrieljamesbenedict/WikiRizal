@@ -178,6 +178,14 @@
     {
       "type": "paragraph",
       "text": "What made Jose Rizal worthy of becoming the Philippines’ national hero was not merely his intelligence, personality, literary acumen, or his pacifist ideals. Rather, it was his patriotism, optimism, undying love for his country and his belief in his countrymen which set him apart. He believed not merely in freedom but in the potential of the Filipino people to surpass what they were under the Spanish colonial government, and all he wished was for them to be given the chance to tap into that potential. And for that, he has earned his right place as a symbol of what a Filipino can do in one short lifetime."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type":"list",
+      "style": "unordered",
+      "items":["[Reference](https://www.joserizal.com/)"]
     }
   ]
 }

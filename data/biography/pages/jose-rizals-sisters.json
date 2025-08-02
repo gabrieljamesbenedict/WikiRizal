@@ -92,6 +92,14 @@
     {
       "type": "paragraph",
       "text": "Soledad, the youngest child in the family, was married to Pantaleon Quintero. She was a teacher and was considered as the best educated among the sisters of Rizal."
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type":"list",
+      "style": "unordered",
+      "items":["[Reference](https://www.joserizal.com/jose-rizals-sisters/)"]
     }
   ]
 }
