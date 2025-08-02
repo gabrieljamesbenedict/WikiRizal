@@ -1,0 +1,92 @@
+{
+  "title": "Complete List of Works of Rizal",
+  "content": [
+    {
+      "type": "subheader",
+      "text": "Novels and Essays"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "Alin Mang Lahi (“Whate’er the Race”), a Kundiman attributed to Dr. Jose Rizal",
+        "The Friars and the Filipinos (Unfinished)",
+        "Toast to Juan Luna and Felix Hidalgo (Speech, 1884), given at Restaurante Ingles, Madrid",
+        "The Diaries of José Rizal",
+        "Rizal’s Letters is a compendium of Dr. Jose Rizal’s letters to his family members, Blumentritt, Fr. Pablo Pastells and other reformers",
+        "“Come se gobiernan las Filipinas” (Governing the Philippine islands)",
+        "Makamisa unfinished novel",
+        "Sa Mga Kababaihang Taga Malolos, essay, 1889, To the Young Women of Malolos",
+        "Annotations to Antonio de Moragas, Sucesos de las Islas Filipinas (essay, 1889, Events in the Philippine Islands)"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Poetry"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "A La Juventud Filipina (\"To The Philippine Youth\")",
+        "El Canto Del Viajero (\" Song of the Wanderer\")",
+        "Briayle Crismarl",
+        "Canto de María Clara (\"Song of Maria Clara\")",
+        "Himno Al Trabajo (Dalit sa Paggawa)",
+        "Felicitación",
+        "Kundiman ",
+        "Me Piden Versos (\"They Ask Me for Verses!\")",
+        "Mi Primera Inspiracion",
+        "Mi Retiro (\"My Retreat\")",
+        "Mi Ultimo Adiós (\"My Last Farewell\")",
+        "Por La Educación (Recibe Lustre La Patria) (\"Education Gives Luster to Motherland\")",
+        "Sa Sanggol na si Jesus (\"Child Jesus)",
+        "A Mi Musa (\"To My Muse)",
+        "Un Recuerdo A Mi Pueblo (\"Memories of My Town)",
+        "A Man in Dapitan"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Plays"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "El Consejo de los Dioses (The Council of Gods)",
+        "Junto Al Pasig (Along the Pasig)",
+        "San Euistaquio, Mártyr (Saint Eustache, the Martyr)"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Sculpture"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "The Triumph of Science over Death"
+      ]
+    },
+    {
+      "type": "subheader",
+      "text": "Paintings"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "Saturnina Rizal in oil now being displayed in Rizal Shrine in Fort Santiago",
+        "Dapitan church curtains in oil made in Dapitan in 1984.",
+        "An oil painting on a pair of mother-of-pearl shells painted in Dapitan and given as a token to Doña Leonor Valenzuela and later passed on to Doña Margarita Valenzuela",
+        "Watercolor painting of the Spanish coat of arms done during the San Rafael fiesta in Calamba in 1867",
+        "Allegory on a pair of porcelain bases of the new year celebration, painted in oil in Berlin in 1886",
+        "Crayon painting of Christ crucified done in 1875",
+        "Crayon painting of Immaculate Conception made in Manila, 1974",
+        "Crayon painting of Portrait of Morayta made in Barcelona, 1885"
+      ]
+    }
+  ]
+}
