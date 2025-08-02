@@ -4,7 +4,7 @@ export function renderContent(blocks, container) {
 	
 	function parseInlineFormatting(text) {
 		return text
-			// Internal + External Links
+			// Internal + External Links [Text](Link)
 			.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, label, url) => {
 				const isExternal = /^(https?:)?\/\//i.test(url);
 				if (isExternal) {
@@ -18,8 +18,8 @@ export function renderContent(blocks, container) {
 					return `<span class="wiki-link-invalid">${label}</span>`;
 				}
 			})
-			.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>") // bold
-			.replace(/\*(.*?)\*/g, "<em>$1</em>"); // italic
+			.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>") // **bold**
+			.replace(/\*(.*?)\*/g, "<em>$1</em>"); // *italic*
 	}
 
 	function createList(block) {
