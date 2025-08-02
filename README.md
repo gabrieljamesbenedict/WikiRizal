@@ -12,7 +12,7 @@ A comprehensive digital encyclopedia dedicated to Dr. Jose Rizal, the national h
 
 ## 🚀 Live Demo
 
-Visit the live website: [WikiRizal](https://your-domain.com) *(Replace with your actual URL)*
+Visit the live website: [WikiRizal](https://gabrieljamesbenedict.github.io/WikiRizal/)
 
 ## 📁 Project Structure
 
